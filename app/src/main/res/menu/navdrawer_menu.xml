@@ -8,6 +8,6 @@
         android:id="@+id/ContactensFragment"
         android:title="Contactens" />
     <item
-        android:id="@+id/AboutFragment"
+        android:id="@+id/aboutFragment"
         android:title="Sobre Nosaltres" />
 </menu>
