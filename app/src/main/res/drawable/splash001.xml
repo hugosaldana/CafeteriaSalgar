@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/_14520855_dise_o_de_icono_de_taza_de_caf__para_men__de_cafeter_a_o_bar_etiqueta_de_dise_o_de_caf__natural_aisl"
+            android:gravity="center" />
+
+
+    </item>
+
+
+</layer-list>
+
